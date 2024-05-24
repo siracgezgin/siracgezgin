@@ -1,6 +1,9 @@
 # Selamkee 👋, ben Siraç Gezgin
 
-![Arka Plan Animasyonu](https://media.giphy.com/media/l1J9sAg6rF4SjLr3q/giphy.gif)
+![Hareketli Noktalar](https://raw.githubusercontent.com/username/repo-name/main/dots-animation.svg)
+![Dönen Kare](https://raw.githubusercontent.com/username/repo-name/main/rotating-square.svg)
+![Yüklenen Çizgiler](https://raw.githubusercontent.com/username/repo-name/main/loading-bars.svg)
+![Dönen Çizgiler](https://raw.githubusercontent.com/username/repo-name/main/rotating-lines.svg)
 
 A passionate [Your Profession/Role] from [Your Country]
 
