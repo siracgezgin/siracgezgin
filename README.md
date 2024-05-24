@@ -1,8 +1,6 @@
-# Selamkee 👋, ben Siraç Gezgin
+# Hi there👋, I'm Siraç Gezgin.
 
 ![Arka Plan Animasyonu](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
-
-# Hi there👋, I'm Siraç Gezgin.
 
 ⚡I am currently a Computer Engineering student at Bursa Technical University. 
 I have five years of experience in the web development field, with proficiency in HTML5, CSS3, JavaScript, Bootstrap and WordPress. I am considering furthering my skills with React.
