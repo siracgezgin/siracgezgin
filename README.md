@@ -10,7 +10,7 @@ A passionate [Your Profession/Role] from [Your Country]
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@siracgezgin-blue)](https://linkedin.com/in/siracgezgin)
-[![YouTube](https://img.shields.io/badge/YouTube-Siraç Gezgin-red)](https://www.youtube.com/@siracgezgin)
+[![YouTube](https://img.shields.io/badge/YouTube-@SiracGezgin-red)](https://www.youtube.com/@siracgezgin)
 [![Hashnode](https://img.shields.io/badge/Instagram-@siracgzgn-purple)](https://www.instagram.com/siracgzgn/)
 
 ## Languages and Tools:
