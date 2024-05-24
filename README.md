@@ -1,6 +1,6 @@
 # Selamkee 👋, ben Siraç Gezgin
 
-![Arka Plan Animasyonu](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+![Arka Plan Animasyonu](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
 A passionate [Your Profession/Role] from [Your Country]
 
