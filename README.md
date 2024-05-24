@@ -1,4 +1,4 @@
-# Selamkee 👋, ben [Siraç Gezgin]
+# Selamkee 👋, ben Siraç Gezgin
 
 A passionate [Your Profession/Role] from [Your Country]
 
@@ -9,11 +9,9 @@ A passionate [Your Profession/Role] from [Your Country]
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-@yourtwitterhandle-blue)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@yourlinkedinhandle-blue)](https://linkedin.com/in/yourlinkedinhandle)
-[![Medium](https://img.shields.io/badge/Medium-@yourmediumhandle-black)](https://medium.com/@yourmediumhandle)
-[![YouTube](https://img.shields.io/badge/YouTube-YourChannelName-red)](https://youtube.com/c/YourChannelName)
-[![Hashnode](https://img.shields.io/badge/Hashnode-@yourhashnodehandle-blue)](https://hashnode.com/@yourhashnodehandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@siracgezgin-blue)](https://linkedin.com/in/siracgezgin)
+[![YouTube](https://img.shields.io/badge/YouTube-Siraç Gezgin-red)](https://www.youtube.com/@siracgezgin)
+[![Hashnode](https://img.shields.io/badge/Instagram-@siracgzgn-purple)](https://www.instagram.com/siracgzgn/)
 
 ## Languages and Tools:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
