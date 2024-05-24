@@ -1,11 +1,13 @@
 # Selamkee 👋, ben Siraç Gezgin
 
+![Arka Plan Animasyonu](https://media.giphy.com/media/l1J9sAg6rF4SjLr3q/giphy.gif)
+
 A passionate [Your Profession/Role] from [Your Country]
 
 - 🌱 I’m currently learning [Technologies/Languages]
 - 📝 I regularly write articles on [Your Blog/Website]
 - 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [siracgezgin@gmail.com]
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## Connect with me:
