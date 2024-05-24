@@ -2,13 +2,16 @@
 
 ![Arka Plan Animasyonu](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
-A passionate [Your Profession/Role] from [Your Country]
+# Hi there👋, I'm Siraç Gezgin.
 
-- 🌱 I’m currently learning [Technologies/Languages]
-- 📝 I regularly write articles on [Your Blog/Website]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [siracgezgin@gmail.com]
-- ⚡ Fun fact: [A Fun Fact About You]
+⚡I am currently a Computer Engineering student at Bursa Technical University. 
+📝I have five years of experience in the web development field, with proficiency in HTML5, CSS3, JavaScript, Bootstrap and WordPress. I am considering furthering my skills with React.
+I have knowledge of Python and have experimented with image processing using OpenCV. 
+I am familiar with C and am currently developing a user interface with C# for a Technofest project. 
+I have a basic understanding of Java and have previously worked on mobile applications. 
+Furthermore, I am also working on data management, with PL/SQL and MySQL.
+
+💬How to reach me: siracgezgin@gmail.com
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@siracgezgin-blue)](https://linkedin.com/in/siracgezgin)
