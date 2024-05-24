@@ -35,4 +35,4 @@ Furthermore, I am also working on data management, with PL/SQL and MySQL.📝
 
 
 ## Most Used Languages
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Siraç Gezgin](https://github-readme-stats.vercel.app/api/top-langs/?username=siracgezgin&layout=compact&theme=dark)
