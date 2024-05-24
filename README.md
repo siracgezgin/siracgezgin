@@ -5,11 +5,11 @@
 # Hi there👋, I'm Siraç Gezgin.
 
 ⚡I am currently a Computer Engineering student at Bursa Technical University. 
-📝I have five years of experience in the web development field, with proficiency in HTML5, CSS3, JavaScript, Bootstrap and WordPress. I am considering furthering my skills with React.
+I have five years of experience in the web development field, with proficiency in HTML5, CSS3, JavaScript, Bootstrap and WordPress. I am considering furthering my skills with React.
 I have knowledge of Python and have experimented with image processing using OpenCV. 
 I am familiar with C and am currently developing a user interface with C# for a Technofest project. 
 I have a basic understanding of Java and have previously worked on mobile applications. 
-Furthermore, I am also working on data management, with PL/SQL and MySQL.
+Furthermore, I am also working on data management, with PL/SQL and MySQL.📝
 
 💬How to reach me: siracgezgin@gmail.com
 
