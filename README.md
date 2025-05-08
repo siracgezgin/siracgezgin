@@ -105,8 +105,7 @@ I'm a Computer Engineering student at Bursa Technical University with a passion 
 ## 📫 Contact Me
 
 - 📧 Email: siracgezgin@gmail.com
-- 📞 Phone: +90 538 593 97 27
-- 📍 Location: Nilüfer, Bursa, Turkey
+
 
 ---
 
