@@ -1,5 +1,3 @@
-# Siraç Gezgin
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Fullstack+Developer;Machine+Learning+Enthusiast;TEKNOFEST+Finalist;AI+%26+LLM+Researcher" alt="Typing SVG" />
   <br/>
