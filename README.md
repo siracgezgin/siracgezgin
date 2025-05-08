@@ -102,7 +102,7 @@ I'm a Computer Engineering student at Bursa Technical University with a passion 
 
 ## Contact Me
 
-- 📧 Email: siracgezgin@gmail.com
+- Email: siracgezgin@gmail.com
 
 
 ---
