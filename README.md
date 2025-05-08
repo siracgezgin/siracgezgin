@@ -4,17 +4,17 @@
   <img src="https://komarev.com/ghpvc/?username=siracgezgin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Engineering student at Bursa Technical University with a passion for building innovative software solutions. My journey in tech started with web development, and has evolved to include artificial intelligence, machine learning, and data science.
 
-- 🔭 Currently working on **AI-powered decision-making systems for restaurant management** (TÜBİTAK 2209-A Project)
-- 🚀 TEKNOFEST finalist with drone swarm algorithms (HAVELSAN Sürü İHA)
-- 🌱 Currently learning **Large Language Models (LLM) and advanced AI applications**
-- 👨‍💻 Experienced in fullstack development with React.js and Node.js
-- 🤖 Passionate about computer vision and natural language processing
+- Currently working on **AI-powered decision-making systems for restaurant management** (TÜBİTAK 2209-A Project)
+- TEKNOFEST finalist with drone swarm algorithms (HAVELSAN Sürü İHA)
+- Currently learning **Large Language Models (LLM) and advanced AI applications**
+- Experienced in fullstack development with React.js and Node.js
+- Passionate about computer vision and natural language processing
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 <div align="center">
   
@@ -52,7 +52,7 @@ I'm a Computer Engineering student at Bursa Technical University with a passion 
 
 </div>
 
-## 🏆 Projects
+## Projects
 
 ### TÜBİTAK 2209-A Research Project (2025)
 **Smart Restaurant Systems: AI-Driven Decision Making and Personalized Marketing**
@@ -82,14 +82,14 @@ I'm a Computer Engineering student at Bursa Technical University with a passion 
 - Analyzed traffic density patterns for urban planning
 - Implemented computer vision techniques for traffic monitoring
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siracgezgin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siracgezgin&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
 </div>
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
   
@@ -100,7 +100,7 @@ I'm a Computer Engineering student at Bursa Technical University with a passion 
   
 </div>
 
-## 📫 Contact Me
+## Contact Me
 
 - 📧 Email: siracgezgin@gmail.com
 
