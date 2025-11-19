@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Neural Network Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,20,24&height=280&section=header&text=SIRAC%20GEZGIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Research%20Engineer&descSize=22&descAlignY=58" />
+<!-- Advanced Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,20,24&height=280&section=header&text=SIRAC%20GEZGIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Engineer%20%7C%20Deep%20Learning%20Specialist&descSize=22&descAlignY=58" />
 
-<!-- Advanced Multi-Line Typing Animation -->
+<!-- Multi-Line Typing Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=140&lines=Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Generative+AI;Neural+Implicit+Representations+%7C+Edge+AI+Deployment;From+Full-Stack+to+AI+Research%3A+Building+Intelligence">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=140&lines=Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Generative+AI;Neural+Implicit+Representations+%7C+Edge+AI+Deployment;From+Full-Stack+to+AI+Research%3A+Building+Intelligence" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 <br/>
 
-<!-- Advanced Profile Metrics -->
+<!-- Profile Metrics -->
 <p>
   <img src="https://img.shields.io/badge/Focus-AI%20Research-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Specialization-Generative%20Design-00D9FF?style=flat-square&logo=threedotjs&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 INTELLIGENCE & ARCHITECTURE
+## TECHNICAL IDENTITY
 
 ```python
 class AIResearchEngineer:
@@ -45,6 +45,7 @@ class AIResearchEngineer:
             "location": "Bursa, Turkey",
             "institution": "Bursa Technical University",
             "graduation": 2026,
+            "current_role": "AI R&D Intern @ Martur Fompak International",
             "research_focus": [
                 "3D Generative Design & FEA",
                 "Neural Implicit Representations",
@@ -72,21 +73,6 @@ class AIResearchEngineer:
             }
         }
     
-    def expertise_map(self) -> dict:
-        return {
-            "core_competencies": {
-                "deep_learning": ["PyTorch", "Neural Architecture Design", "Model Optimization"],
-                "computer_vision": ["YOLOv8", "Pose Estimation", "3D Reconstruction", "OpenCV"],
-                "generative_ai": ["Neural Radiance Fields", "Topology Optimization", "GNNs"],
-                "edge_deployment": ["CUDA Optimization", "Model Quantization", "Jetson Nano"]
-            },
-            "research_impact": {
-                "competitions": ["TEKNOFEST Swarm UAV (Finalist)", "TEKNOFEST AI Health"],
-                "grants": ["TÜBİTAK 2209-A Research Grant"],
-                "publications": "Academic literature analysis & implementation"
-            }
-        }
-    
     def philosophy(self) -> str:
         return """
         Bridging theoretical AI research with production-grade engineering.
@@ -99,22 +85,16 @@ researcher = AIResearchEngineer()
 print(researcher.philosophy())
 ```
 
-**Current Position:** AI R&D Intern @ **Martur Fompak International** (Oct 2025 - Present)
-
 **Career Narrative:** Deliberately pivoting from full-stack web development (React, Node.js, Angular) to specialized AI research. Leveraging strong software engineering fundamentals to build robust, production-ready machine learning systems. Not just a model trainer—a systems architect who understands the full pipeline from data to deployment.
 
 ---
 
-## 🔬 RESEARCH & PROFESSIONAL EXPERIENCE
-
-<table>
-<tr>
-<td width="60%" valign="top">
+## RESEARCH & PROFESSIONAL EXPERIENCE
 
 ### **Martur Fompak International** | *AI Research & Development*
 **October 2025 - Present** | Bursa, Turkey
 
-#### 🌌 3D Generative Design for FEA Applications
+#### **3D Generative Design for FEA Applications**
 
 **Research Objective:** Investigate neural implicit representations as computationally efficient alternatives to traditional Finite Element Analysis in structural optimization.
 
@@ -134,7 +114,7 @@ print(researcher.philosophy())
 
 ---
 
-#### 👁️ Computer Vision - "Light Guide" Quality Control System
+#### **Computer Vision - "Light Guide" Quality Control System**
 
 **Industrial Challenge:** Real-time verification of 24+ quality checkpoints on automotive seat assembly lines with sub-second latency requirements.
 
@@ -161,15 +141,14 @@ graph LR
 
 ---
 
-#### 🤖 Emerging AI Research
+#### **Emerging AI Research**
 
 **Continuous Learning:** Monitoring cutting-edge AI developments
 - Google ADK (Agent Development Kit) for voice agents
 - Hugging Face Transformers & Agents certification courses
 - LLM fine-tuning techniques for domain-specific applications
 
-</td>
-<td width="40%" valign="top">
+---
 
 ### **Özdilek Holding** | *Frontend Development*
 **August 2025 - October 2025** | Özveri R&D Center
@@ -186,34 +165,68 @@ graph LR
 
 ---
 
-### **Academic Foundation**
+## FLAGSHIP OPEN SOURCE PROJECTS
 
-**B.Sc. Computer Engineering**  
-Bursa Technical University (2021-2026)
+### **HomeOS-AI** | Edge AI Voice Assistant
 
-**Specialization Path:**
-- Year 1-2: Core CS fundamentals
-- Year 3: Web development & databases
-- **Year 4: Deep pivot to AI/ML**
-  - Machine Learning coursework
-  - Computer Vision projects
-  - Research methodology
+[![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge&logo=github)](https://github.com/siracgezgin/homeos-ai)
+[![Hardware](https://img.shields.io/badge/Hardware-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia)](https://github.com/siracgezgin/homeos-ai)
 
-**Research Training:**
-- Independent literature review (arXiv)
-- Implementation of academic papers
-- Technical documentation & reporting
+**Vision:** Privacy-first, offline voice assistant running entirely on edge hardware. Zero cloud dependency, sub-second latency.
 
-</td>
-</tr>
-</table>
+#### System Architecture:
+
+```mermaid
+graph TD
+    A[Microphone Input] -->|Audio Stream| B(Whisper Speech Recognition)
+    B -->|Transcribed Text| C{TinyLlama 1.1B}
+    C -->|Intent Classification| D[Home Automation API]
+    C -->|Dialogue Generation| E(Coqui TTS Engine)
+    E -->|Speech Synthesis| F[Speaker Output]
+    
+    G[CUDA Optimization Layer] -.->|4-bit Quantization| C
+    G -.->|Memory Management| B
+    
+    style C fill:#EE4C2C,stroke:#333,stroke-width:3px,color:white
+    style G fill:#76B900,stroke:#333,stroke-width:2px,color:white
+```
+
+#### Technical Deep Dive:
+
+**1. Model Optimization for Edge**
+- **Quantization:** INT4 precision for TinyLlama (3GB → 750MB VRAM)
+- **Inference Speed:** Optimized to <200ms response time
+- **Power Efficiency:** Thermal-aware scheduling on Jetson
+
+**2. LLM Integration**
+```python
+# Custom LLM Pipeline
+model = load_quantized_model(
+    "TinyLlama-1.1B-Chat",
+    quantization="int4",
+    device="cuda:0"
+)
+
+# Intent extraction without cloud APIs
+intent = model.classify_intent(transcription)
+response = automation_controller.execute(intent)
+```
+
+**Performance Metrics:**
+- Wake word detection: <100ms
+- Speech-to-text latency: ~500ms
+- LLM inference: ~200ms
+- Total response time: <1 second
+
+**Privacy Guarantee:** All processing local, no data leaves device, no internet dependency after initial model download.
+
+**Technologies:** `PyTorch` `Transformers` `Whisper` `TinyLlama` `CUDA` `TensorRT` `Jetson Nano`
 
 ---
 
-## 🏆 RESEARCH ACHIEVEMENTS & COMPETITION SUCCESS
+## RESEARCH ACHIEVEMENTS & COMPETITION SUCCESS
 
-<details open>
-<summary><h3>🔬 TÜBİTAK 2209-A Research Grant (2025)</h3></summary>
+### **TÜBİTAK 2209-A Research Grant (2025)**
 
 **Project Title:** Smart Restaurant Systems - AI-Driven Business Intelligence and Personalized Marketing
 
@@ -243,10 +256,9 @@ Bursa Technical University (2021-2026)
 
 **Technologies:** `Python` `Scikit-learn` `Zemberek NLP` `Pandas` `Time-Series Forecasting`
 
-</details>
+---
 
-<details open>
-<summary><h3>🚁 TEKNOFEST HAVELSAN Swarm UAV Competition - Finalist (2024)</h3></summary>
+### **TEKNOFEST HAVELSAN Swarm UAV Competition - Finalist (2024)**
 
 **Team:** BTU MATRİS | **Achievement:** National Finalist
 
@@ -275,10 +287,9 @@ Bursa Technical University (2021-2026)
 
 **Tech Stack:** `Python` `C++` `ROS` `Gazebo` `PX4 Autopilot` `MAVLink`
 
-</details>
+---
 
-<details>
-<summary><h3>🏥 TEKNOFEST AI in Health Competition (2023)</h3></summary>
+### **TEKNOFEST AI in Health Competition (2023)**
 
 **Team:** BTU MATRİS | **Domain:** Medical Imaging
 
@@ -310,17 +321,11 @@ graph TD
    - Custom loss functions for imbalanced classes
    - Model validation on unseen hospital data
 
-3. **Deployment Considerations**
-   - Inference optimization for clinical use
-   - Explainability features (Grad-CAM visualization)
-   - Regulatory compliance considerations
-
 **Impact:** Demonstrated viability of AI-assisted diagnostics, highlighting potential for clinical decision support systems.
 
-</details>
+---
 
-<details>
-<summary><h3>🌊 TEKNOFEST Underwater Systems (2022)</h3></summary>
+### **TEKNOFEST Underwater Systems (2022)**
 
 **Team:** BTU DALAY | **Domain:** Autonomous Underwater Vehicles (AUV)
 
@@ -344,159 +349,9 @@ graph TD
 
 **Key Skill:** Robustness engineering—making AI work in noisy, unpredictable real-world conditions.
 
-</details>
-
 ---
 
-## 🚀 FLAGSHIP OPEN SOURCE PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 **HomeOS-AI** | Edge AI Voice Assistant
-
-[![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge&logo=github)](https://github.com/siracgezgin/homeos-ai)
-[![Hardware](https://img.shields.io/badge/Hardware-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia)](https://github.com/siracgezgin/homeos-ai)
-
-**Vision:** Privacy-first, offline voice assistant running entirely on edge hardware. Zero cloud dependency, sub-second latency.
-
-#### System Architecture:
-
-```mermaid
-graph TD
-    A[🎤 Microphone Input] -->|Audio Stream| B(Whisper Speech Recognition)
-    B -->|Transcribed Text| C{TinyLlama 1.1B}
-    C -->|Intent Classification| D[Home Automation API]
-    C -->|Dialogue Generation| E(Coqui TTS Engine)
-    E -->|Speech Synthesis| F[🔊 Speaker Output]
-    
-    G[CUDA Optimization Layer] -.->|4-bit Quantization| C
-    G -.->|Memory Management| B
-    
-    style C fill:#EE4C2C,stroke:#333,stroke-width:3px,color:white
-    style G fill:#76B900,stroke:#333,stroke-width:2px,color:white
-```
-
-#### Technical Deep Dive:
-
-**1. Model Optimization for Edge**
-- **Quantization:** INT4 precision for TinyLlama (3GB → 750MB VRAM)
-- **Inference Speed:** Optimized to <200ms response time
-- **Power Efficiency:** Thermal-aware scheduling on Jetson
-
-**2. LLM Integration**
-```python
-# Custom LLM Pipeline
-model = load_quantized_model(
-    "TinyLlama-1.1B-Chat",
-    quantization="int4",
-    device="cuda:0"
-)
-
-# Intent extraction without cloud APIs
-intent = model.classify_intent(transcription)
-response = automation_controller.execute(intent)
-```
-
-**3. Whisper Deployment**
-- Model: `whisper-small` (244M parameters)
-- Optimization: ONNX export + TensorRT acceleration
-- Languages: Multilingual support (EN/TR)
-
-**Performance Metrics:**
-- Wake word detection: <100ms
-- Speech-to-text latency: ~500ms
-- LLM inference: ~200ms
-- Total response time: <1 second
-
-**Privacy Guarantee:** All processing local, no data leaves device, no internet dependency after initial model download.
-
-**Technologies:** `PyTorch` `Transformers` `Whisper` `TinyLlama` `CUDA` `TensorRT` `Jetson Nano`
-
----
-
-### 📊 **Traffic Density Prediction System**
-
-[![Domain](https://img.shields.io/badge/Domain-Smart%20Cities-orange?style=for-the-badge&logo=city)](https://github.com/siracgezgin)
-
-**Objective:** ML-powered urban traffic forecasting for intelligent city planning.
-
-**Approach:**
-1. **Data Collection:** Traffic camera feeds + sensor data
-2. **Computer Vision:** Vehicle detection and counting (YOLO)
-3. **Time-Series Modeling:** LSTM networks for temporal patterns
-4. **Prediction:** Real-time density forecasting
-
-**Urban Impact:** Optimize traffic light timing, reduce congestion, inform infrastructure planning.
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 **Turkish Sentiment Analysis System**
-
-[![NLP](https://img.shields.io/badge/NLP-Turkish%20Language-blue?style=for-the-badge&logo=book)](https://github.com/siracgezgin)
-
-**Challenge:** Sentiment analysis for morphologically rich Turkish language (limited resources compared to English).
-
-**Technical Solution:**
-
-**1. Linguistic Processing**
-- **Zemberek Library:** Turkish-specific morphological analysis
-- Handling agglutinative word structures
-- Stemming and lemmatization
-
-**2. Model Architecture**
-```python
-# Simplified architecture
-tokenizer = ZemberekTokenizer(language="turkish")
-embeddings = Word2Vec(corpus, vector_size=300)
-classifier = BiLSTM(
-    input_dim=300,
-    hidden_dim=128,
-    num_classes=3  # Positive, Negative, Neutral
-)
-```
-
-**3. Training Dataset**
-- Turkish product reviews
-- Social media sentiment data
-- News article comments
-
-**Applications:** Social media monitoring, customer feedback analysis, brand reputation management.
-
-**Technologies:** `Zemberek` `Python` `LSTM` `Word2Vec` `Scikit-learn`
-
----
-
-### 🔬 **Generative Design Research** (Ongoing)
-
-[![Research](https://img.shields.io/badge/Research-Neural%20Implicit-EE4C2C?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2110.10863)
-
-**Academic Foundation:** Implementation of research paper on neural implicit representations for engineering applications.
-
-**Concept:** Replace computationally expensive FEA simulations with trained neural networks that learn stress distribution patterns.
-
-**Methodology:**
-1. Generate synthetic FEA dataset (Voronoi structures)
-2. Train neural implicit field to predict stress
-3. Use GNNs to capture geometric relationships
-4. Optimize topology based on learned stress fields
-
-**3D Visualization:**
-*(Placeholder for interactive 3D model viewer)*
-
-**Technologies:** `PyTorch` `Open3D` `NumPy` `PointNet` `GNNs`
-
-**Status:** Active research under supervision at Martur Fompak R&D.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ TECHNICAL ARSENAL & METHODOLOGIES
+## TECHNICAL ARSENAL & METHODOLOGIES
 
 <table>
 <tr>
@@ -643,7 +498,7 @@ Specialized Skills:
 
 ---
 
-## 📊 GITHUB ANALYTICS & RESEARCH ACTIVITY
+## GITHUB ANALYTICS & RESEARCH ACTIVITY
 
 <div align="center">
 
@@ -663,57 +518,14 @@ Specialized Skills:
 
 <br/>
 
-### Language Distribution (AI-Focused)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siracgezgin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=EE4C2C&text_color=c9d1d9&langs_count=8&hide=html,css,javascript,jupyter%20notebook" width="55%" />
+### Language Distribution
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siracgezgin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=EE4C2C&text_color=c9d1d9&langs_count=8&hide=html,css,javascript" width="55%" />
 
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siracgezgin/siracgezgin/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/siracgezgin/siracgezgin/output/github-contribution-grid-snake.svg" />
-</picture>
 </div>
 
 ---
 
-## 📡 RESEARCH FEED & ACADEMIC ENGAGEMENT
-
-<!-- BEGIN ARXIV FEED -->
-
-**Latest Papers in Generative Design & Computer Vision**
-
-This section auto-updates daily via GitHub Actions, tracking relevant research in my focus areas.
-
-- **[Neural Implicit Representations with Periodic Activation Functions]** - arXiv:2006.09661 • *cs.CV*
-- **[NeRF: Representing Scenes as Neural Radiance Fields]** - arXiv:2003.08934 • *cs.CV*
-- **[Topology Optimization using Neural Networks]** - arXiv:2209.00796 • *cs.LG*
-
-*Last Updated: Auto-refreshed daily at 08:00 UTC*
-
-<!-- END ARXIV FEED -->
-
-<details>
-<summary><b>🎓 Academic Research Methodology</b></summary>
-
-My research process follows a rigorous scientific approach:
-
-1. **Literature Review:** Systematic analysis of arXiv papers in target domains
-2. **Implementation:** Coding research papers from scratch to understand mechanisms
-3. **Experimentation:** Ablation studies and hyperparameter optimization
-4. **Documentation:** Technical reports and code documentation
-5. **Deployment:** Production-grade implementations with optimization
-
-**Tools:** Zotero (Reference Management) • Notion (Lab Notebook) • Git (Version Control)
-
-</details>
-
----
-
-## 🌐 PROFESSIONAL NETWORK & COLLABORATION
+## PROFESSIONAL NETWORK & COLLABORATION
 
 <div align="center">
 
@@ -743,64 +555,23 @@ My research process follows a rigorous scientific approach:
 </td>
 <td align="center" width="25%">
 <a href="https://www.youtube.com/@siracgezgin">
-<img src="https://img.shields.io/name: Update Profile
+<img src="https://img.shields.io/badge/YouTube-Tech%20Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<br/><sub>Educational Videos</sub>
+</a>
+</td>
+</tr>
+</table>
 
-on:
-  schedule:
-    - cron: '0 8 * * *' # Her sabah 08:00'de çalışır
-  workflow_dispatch: # Manuel tetikleme için
+</div>
 
-jobs:
-  # 1. Yılan Animasyonunu Güncelle
-  generate-snake:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
 
-  # 2. ArXiv Makalelerini Güncelle
-  update-arxiv:
-    runs-on: ubuntu-latest
-    needs: generate-snake # Yılan oluştuktan sonra çalışsın
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-          
-      - name: Install Dependencies
-        run: pip install feedparser
-        
-      - name: Run ArXiv Script
-        run: python scripts/update_arxiv.py
-        
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add README.md
-          git diff --quiet && git diff --staged --quiet |
+<div align="center">
 
-| (git commit -m "Update ArXiv feed" && git push)
+**"Bridging theoretical AI research with production-grade engineering."**
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,20,24&height=100&section=footer" />
+
+</div>
